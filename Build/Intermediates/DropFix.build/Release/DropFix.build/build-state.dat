@@ -1,0 +1,259 @@
+TDropFix
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Info.plist DropFix/DropFix-Info.plist
+cProcessPCH /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth DropFix/DropFix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o /Users/jslaught/Desktop/DropFix/DropFix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o /Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o /Users/jslaught/Desktop/DropFix/DropFix/DropWell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix normal x86_64
+cGenerateDSYMFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix
+cCpResource DropFix/en.lproj/Credits.rtf Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib
+cCopyStringsFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/InfoPlist.strings DropFix/en.lproj/InfoPlist.strings
+cTouch /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000504A959100000000000025C8
+t1347065233
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000504A959100000000000001E5
+t1347065233
+s485
+
+N/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropFix.LinkFileList
+c0000000051B07A81000000000000016A
+t1370520193
+s362
+
+N/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m
+c0000000051B079D50000000000000641
+t1370520021
+s1601
+
+N/Users/jslaught/Desktop/DropFix/DropFix/DropFix-Prefix.pch
+c0000000051B076A10000000000000091
+t1370519201
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/jslaught/Desktop/DropFix/DropFix/DropWell.m
+c0000000051AF7E24000000000000113D
+t1370455588
+s4413
+
+N/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/Credits.rtf
+c0000000051B076A100000000000001B4
+t1370519201
+s436
+
+N/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/InfoPlist.strings
+c0000000051B076A1000000000000002D
+t1370519201
+s45
+
+N/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib
+c0000000051B077E70000000000023711
+t1370519527
+s145169
+
+N/Users/jslaught/Desktop/DropFix/DropFix/main.m
+c0000000051B076A10000000000000129
+t1370519201
+s297
+
+NDropFix/DropFix-Info.plist
+c0000000051B07A6D0000000000000485
+t1370520173
+s1157
+
+CBuild AST from /Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m
+r0
+
+CBuild AST from /Users/jslaught/Desktop/DropFix/DropFix/DropWell.m
+r0
+
+CBuild AST from /Users/jslaught/Desktop/DropFix/DropFix/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies501ce401b260b741^1a34ec01b260b741^---0#1#0#--18"Check dependencies36"5A89DB43-4C09-4A65-95A0-D4F60293C247-
+
+CCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o /Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392212995.016944
+e392212995.252079
+r1
+xCompileC
+xBuild/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m:45:155: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o    NSAlert * alert = [NSAlert alertWithMessageText:@"Process Complete" defaultButton:@"OK" alternateButton:nil otherButton:nil informativeTextWithFormat:rawString];
+o                                                                                                                                                          ^~~~~~~~~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m0f7c0403b260b741^1e884003b260b741^-503"/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m:45:155: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSAlert * alert = [NSAlert alertWithMessageText:@"Process Complete" defaultButton:@"OK" alternateButton:nil otherButton:nil informativeTextWithFormat:rawString];                                                                                                                                                          ^~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-392212995#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@69"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m0000000000000000^44#154#44#154#1507#0#19"Format String Issue1(3@69"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m0000000000000000^44#154#44#163#1507#0#-0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m0000000000000000^3132"CompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o DropFix/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jslaught/Desktop/DropFix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-generated-files.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-own-target-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-all-target-headers.hmap -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-project-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources/x86_64 -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources -F/Users/jslaught/Desktop/DropFix/Build/Products/Release -include /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch -MMD -MT dependencies -MF /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/jslaught/Desktop/DropFix/DropFix/AppDelegate.m -o /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/AppDelegate.o36"23E14C6D-2348-43F0-9C4A-A2D1463A14CB-
+
+CCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o /Users/jslaught/Desktop/DropFix/DropFix/DropWell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392212995.016975
+e392212995.251043
+r1
+xCompileC
+xBuild/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o
+x/Users/jslaught/Desktop/DropFix/DropFix/DropWell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/jslaught/Desktop/DropFix/DropFix/DropWell.m0f7c0403b260b741^9d484003b260b741^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/DropWell.m0000000000000000^3114"CompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o DropFix/DropWell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jslaught/Desktop/DropFix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-generated-files.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-own-target-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-all-target-headers.hmap -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-project-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources/x86_64 -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources -F/Users/jslaught/Desktop/DropFix/Build/Products/Release -include /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch -MMD -MT dependencies -MF /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.d --serialize-diagnostics /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.dia -c /Users/jslaught/Desktop/DropFix/DropFix/DropWell.m -o /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropWell.o36"445A55E2-3C78-4B8E-B5D4-F081227B5014-
+
+CCompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o /Users/jslaught/Desktop/DropFix/DropFix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392212995.016942
+e392212995.126426
+r1
+xCompileC
+xBuild/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o
+x/Users/jslaught/Desktop/DropFix/DropFix/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/jslaught/Desktop/DropFix/DropFix/main.m60750403b260b741^c85d2003b260b741^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/main.m0000000000000000^3090"CompileC Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o DropFix/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jslaught/Desktop/DropFix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-generated-files.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-own-target-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-all-target-headers.hmap -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-project-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources/x86_64 -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources -F/Users/jslaught/Desktop/DropFix/Build/Products/Release -include /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch -MMD -MT dependencies -MF /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.dia -c /Users/jslaught/Desktop/DropFix/DropFix/main.m -o /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/main.o36"4822071F-D23F-4A45-923F-5D4CBB69F20F-
+
+CCompileXIB /Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib
+s392212995.336253
+e392212995.411107
+r1
+xCompileXIB
+x/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compiling /Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xibed285603b260b741^0e4d6903b260b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib0000000000000000^583"CompileXIB DropFix/en.lproj/MainMenu.xib    cd /Users/jslaught/Desktop/DropFix    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/MainMenu.nib /Users/jslaught/Desktop/DropFix/DropFix/en.lproj/MainMenu.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"9F6813C6-E9EB-4DB2-AA81-E0B8F35DE701-
+
+CCopyStringsFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/InfoPlist.strings DropFix/en.lproj/InfoPlist.strings
+s392212995.336250
+e392212995.340207
+r1
+xCopyStringsFile
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/InfoPlist.strings
+xDropFix/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy DropFix/en.lproj/InfoPlist.stringsb7295603b260b741^a8185703b260b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/en.lproj/InfoPlist.strings0000000000000000^394"CopyStringsFile Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/InfoPlist.strings DropFix/en.lproj/InfoPlist.strings    cd /Users/jslaught/Desktop/DropFix    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj -- DropFix/en.lproj/InfoPlist.strings36"E477B188-B5C3-46D7-A58E-9899692E2C2C-
+
+CCpResource DropFix/en.lproj/Credits.rtf Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf
+s392212995.336235
+e392212995.339006
+r1
+xCpResource
+xDropFix/en.lproj/Credits.rtf
+xBuild/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf20295603b260b741^bcca5603b260b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^548"CpResource DropFix/en.lproj/Credits.rtf Build/Products/Release/DropFix.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/jslaught/Desktop/DropFix    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jslaught/Desktop/DropFix/DropFix/en.lproj/Credits.rtf /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Resources/en.lproj36"76898478-E170-442F-8CA7-F0D99B7E9EF6-
+
+CGenerateDSYMFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix
+s392212995.309218
+e392212995.327901
+r1
+xGenerateDSYMFile
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Generating /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM2e3c4f03b260b741^0af25303b260b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM000000000080d041^419"GenerateDSYMFile Build/Products/Release/DropFix.app.dSYM Build/Products/Release/DropFix.app/Contents/MacOS/DropFix    cd /Users/jslaught/Desktop/DropFix    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix -o /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app.dSYM36"F22D73AE-A624-43A1-9567-CB3BA85295EB-
+
+CLd /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix normal x86_64
+s392212995.259214
+e392212995.302649
+r1
+xLd
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix65724203b260b741^637b4d03b260b741^---0#0#0#--785"Ld Build/Products/Release/DropFix.app/Contents/MacOS/DropFix normal x86_64    cd /Users/jslaught/Desktop/DropFix    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/jslaught/Desktop/DropFix/Build/Products/Release -F/Users/jslaught/Desktop/DropFix/Build/Products/Release -filelist /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/Objects-normal/x86_64/DropFix.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -o /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/MacOS/DropFix36"1ECCED07-738D-45D0-B07B-00D2D692B389-
+
+CProcessInfoPlistFile /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Info.plist DropFix/DropFix-Info.plist
+s392212993.927223
+e392212993.930249
+r1
+xProcessInfoPlistFile
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Info.plist
+xDropFix/DropFix-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process DropFix/DropFix-Info.plist616ced01b260b741^3f39ee01b260b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/DropFix-Info.plist0000000000000000^422"ProcessInfoPlistFile Build/Products/Release/DropFix.app/Contents/Info.plist DropFix/DropFix-Info.plist    cd /Users/jslaught/Desktop/DropFix    builtin-infoPlistUtility DropFix/DropFix-Info.plist -genpkginfo /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app/Contents/Info.plist36"6FA48875-5F37-4CA4-A1FF-19F857228DA9-
+
+CProcessPCH /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth DropFix/DropFix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392212993.938606
+e392212995.010520
+r1
+xProcessPCH
+x/Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth
+xDropFix/DropFix-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile DropFix/DropFix-Prefix.pchcd73f001b260b741^e6b10203b260b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jslaught/Desktop/DropFix/DropFix/DropFix-Prefix.pch0000000000000000^3060"ProcessPCH Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth DropFix/DropFix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jslaught/Desktop/DropFix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-generated-files.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-own-target-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-all-target-headers.hmap -iquote /Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DropFix-project-headers.hmap -I/Users/jslaught/Desktop/DropFix/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources/x86_64 -I/Users/jslaught/Desktop/DropFix/Build/Intermediates/DropFix.build/Release/DropFix.build/DerivedSources -F/Users/jslaught/Desktop/DropFix/Build/Products/Release --serialize-diagnostics /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.dia -c /Users/jslaught/Desktop/DropFix/DropFix/DropFix-Prefix.pch -o /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jslaught/Desktop/DropFix/Build/Intermediates/PrecompiledHeaders/DropFix-Prefix-eyfbjkthbpysijeuwhlsovmfwvqo/DropFix-Prefix.pch.d36"E57676D9-220E-4EB9-A48A-3D93C50C5FF3-
+
+CProcessPCH /Users/jslaught/Library/Developer/Xcode/DerivedData/DropFix-dnjziiizudwtubfwciyjcpxykbdu/Index/PrecompiledHeaders/DropFix-Prefix-fxfwjzviiwfddncdcglqxexcrdcv_ast/DropFix-Prefix.pch.pth DropFix/DropFix-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app
+s392212995.419232
+e392212995.426805
+r1
+xTouch
+x/Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Touch /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app38686b03b260b741^03446d03b260b741^---0#0#0#--169"Touch Build/Products/Release/DropFix.app    cd /Users/jslaught/Desktop/DropFix    /usr/bin/touch -c /Users/jslaught/Desktop/DropFix/Build/Products/Release/DropFix.app36"15636BC5-ED20-40EB-B874-713DC6ADF9E0-
+

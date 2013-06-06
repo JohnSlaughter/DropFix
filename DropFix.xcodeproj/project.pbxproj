@@ -1,0 +1,311 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		737E22191760AE2100A79DBF /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 737E22181760AE2100A79DBF /* Cocoa.framework */; };
+		737E22231760AE2100A79DBF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 737E22211760AE2100A79DBF /* InfoPlist.strings */; };
+		737E22251760AE2100A79DBF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 737E22241760AE2100A79DBF /* main.m */; };
+		737E22291760AE2100A79DBF /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 737E22271760AE2100A79DBF /* Credits.rtf */; };
+		737E222C1760AE2100A79DBF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 737E222B1760AE2100A79DBF /* AppDelegate.m */; };
+		737E222F1760AE2100A79DBF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 737E222D1760AE2100A79DBF /* MainMenu.xib */; };
+		737E22371760AE4A00A79DBF /* DropWell.m in Sources */ = {isa = PBXBuildFile; fileRef = 737E22361760AE4A00A79DBF /* DropWell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		737E22141760AE2100A79DBF /* DropFix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DropFix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		737E22181760AE2100A79DBF /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		737E221B1760AE2100A79DBF /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		737E221C1760AE2100A79DBF /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		737E221D1760AE2100A79DBF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		737E22201760AE2100A79DBF /* DropFix-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DropFix-Info.plist"; sourceTree = "<group>"; };
+		737E22221760AE2100A79DBF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		737E22241760AE2100A79DBF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		737E22261760AE2100A79DBF /* DropFix-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DropFix-Prefix.pch"; sourceTree = "<group>"; };
+		737E22281760AE2100A79DBF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		737E222A1760AE2100A79DBF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		737E222B1760AE2100A79DBF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		737E222E1760AE2100A79DBF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		737E22351760AE4A00A79DBF /* DropWell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropWell.h; sourceTree = "<group>"; };
+		737E22361760AE4A00A79DBF /* DropWell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropWell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		737E22111760AE2100A79DBF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				737E22191760AE2100A79DBF /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		737E22091760AE2100A79DBF = {
+			isa = PBXGroup;
+			children = (
+				737E221E1760AE2100A79DBF /* DropFix */,
+				737E22171760AE2100A79DBF /* Frameworks */,
+				737E22151760AE2100A79DBF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		737E22151760AE2100A79DBF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				737E22141760AE2100A79DBF /* DropFix.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		737E22171760AE2100A79DBF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				737E22181760AE2100A79DBF /* Cocoa.framework */,
+				737E221A1760AE2100A79DBF /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		737E221A1760AE2100A79DBF /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				737E221B1760AE2100A79DBF /* AppKit.framework */,
+				737E221C1760AE2100A79DBF /* CoreData.framework */,
+				737E221D1760AE2100A79DBF /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		737E221E1760AE2100A79DBF /* DropFix */ = {
+			isa = PBXGroup;
+			children = (
+				737E22351760AE4A00A79DBF /* DropWell.h */,
+				737E22361760AE4A00A79DBF /* DropWell.m */,
+				737E222A1760AE2100A79DBF /* AppDelegate.h */,
+				737E222B1760AE2100A79DBF /* AppDelegate.m */,
+				737E222D1760AE2100A79DBF /* MainMenu.xib */,
+				737E221F1760AE2100A79DBF /* Supporting Files */,
+			);
+			path = DropFix;
+			sourceTree = "<group>";
+		};
+		737E221F1760AE2100A79DBF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				737E22201760AE2100A79DBF /* DropFix-Info.plist */,
+				737E22211760AE2100A79DBF /* InfoPlist.strings */,
+				737E22241760AE2100A79DBF /* main.m */,
+				737E22261760AE2100A79DBF /* DropFix-Prefix.pch */,
+				737E22271760AE2100A79DBF /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		737E22131760AE2100A79DBF /* DropFix */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 737E22321760AE2100A79DBF /* Build configuration list for PBXNativeTarget "DropFix" */;
+			buildPhases = (
+				737E22101760AE2100A79DBF /* Sources */,
+				737E22111760AE2100A79DBF /* Frameworks */,
+				737E22121760AE2100A79DBF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DropFix;
+			productName = DropFix;
+			productReference = 737E22141760AE2100A79DBF /* DropFix.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		737E220B1760AE2100A79DBF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Engineering & Science Computing - University of Notre Dame";
+			};
+			buildConfigurationList = 737E220E1760AE2100A79DBF /* Build configuration list for PBXProject "DropFix" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 737E22091760AE2100A79DBF;
+			productRefGroup = 737E22151760AE2100A79DBF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				737E22131760AE2100A79DBF /* DropFix */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		737E22121760AE2100A79DBF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				737E22231760AE2100A79DBF /* InfoPlist.strings in Resources */,
+				737E22291760AE2100A79DBF /* Credits.rtf in Resources */,
+				737E222F1760AE2100A79DBF /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		737E22101760AE2100A79DBF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				737E22251760AE2100A79DBF /* main.m in Sources */,
+				737E222C1760AE2100A79DBF /* AppDelegate.m in Sources */,
+				737E22371760AE4A00A79DBF /* DropWell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		737E22211760AE2100A79DBF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				737E22221760AE2100A79DBF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		737E22271760AE2100A79DBF /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				737E22281760AE2100A79DBF /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		737E222D1760AE2100A79DBF /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				737E222E1760AE2100A79DBF /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		737E22301760AE2100A79DBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		737E22311760AE2100A79DBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		737E22331760AE2100A79DBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DropFix/DropFix-Prefix.pch";
+				INFOPLIST_FILE = "DropFix/DropFix-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		737E22341760AE2100A79DBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DropFix/DropFix-Prefix.pch";
+				INFOPLIST_FILE = "DropFix/DropFix-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		737E220E1760AE2100A79DBF /* Build configuration list for PBXProject "DropFix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				737E22301760AE2100A79DBF /* Debug */,
+				737E22311760AE2100A79DBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		737E22321760AE2100A79DBF /* Build configuration list for PBXNativeTarget "DropFix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				737E22331760AE2100A79DBF /* Debug */,
+				737E22341760AE2100A79DBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 737E220B1760AE2100A79DBF /* Project object */;
+}
